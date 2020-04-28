@@ -28,7 +28,7 @@
     "prepare": "./scripts/link-them.sh"
   },
   "dependencies": {
-    "@glimmer/syntax": "^0.42.2",
+    "@glimmer/syntax": "^0.51.1",
     "broccoli-bridge": "^1.0.0",
     "broccoli-caching-writer": "^3.0.3",
     "broccoli-debug": "^0.6.5",
